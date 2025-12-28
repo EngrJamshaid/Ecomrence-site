@@ -1,11 +1,4 @@
-Samajh gaya 👍
-Tum **sirf ONE FILE ka ready README.md** chahte ho — **no explanation, no extra steps**, bas **ek hi file ka complete content**.
-
-👉 **Ye poora content copy karo aur `README.md` me paste kar do.**
-
----
-
-```md
+only Front end
 # 🛒 ECOM – Ecommerce Web Application
 
 ECOM ek modern ecommerce web application hai jo users ko online products browse karne, cart me add karne aur checkout karne ki facility deta hai.  
@@ -92,13 +85,3 @@ git commit -m "Added README file"
 git push
 ```
 
----
-
-Agar chaho to main:
-
-* 🔥 **Professional portfolio-style README**
-* 🎨 **Badges + icons**
-* 📸 **Screenshots section**
-* 🚀 **Deployment section**
-
-bhi isi ONE file me bana deta hoon.
